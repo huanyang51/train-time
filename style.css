@@ -1,0 +1,13 @@
+h1,
+h3 {
+  text-align: center;
+  color: #ffffff;
+}
+.jumbotron {
+  background-color: #a45622;
+}
+#add-train-btn,
+.card-header {
+  color: #ffffff;
+  background-color: #3e77a9;
+}
